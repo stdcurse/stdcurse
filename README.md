@@ -1,0 +1,2 @@
+# stdcurse
+Experimental Linux distribution.
